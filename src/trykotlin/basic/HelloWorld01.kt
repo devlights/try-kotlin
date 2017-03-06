@@ -1,3 +1,6 @@
+/**
+ * Hello WorldのKotlinバージョンです。
+ */
 package trykotlin.basic
 
 fun main(args: Array<String>) {
