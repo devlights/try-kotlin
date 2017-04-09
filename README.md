@@ -1,2 +1,5 @@
 # try-kotlin
-My Kotlin tutorial (kotlin 1.1)
+This is my TUTORIAL project for Kotlin. (Kotlin 1.1)
+
+# IDE
+- JetBrains IDEA
